@@ -1,0 +1,15 @@
+venv
+.idea
+**/*.pyc
+.cache
+.theano
+dist
+*.swp
+KITTI_data_download
+output
+input
+inputs
+model_weights
+*.tar
+weights
+*.npy
