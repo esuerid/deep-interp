@@ -1,4 +1,4 @@
-# Deep Motion: A Convolutional Neural Network for Frame Interpolation
+# Deep Interpolation: A Convolutional Neural Network for Frame Interpolation
 Use a DCNN to perform frame interpolation.
 
 Paper: [Deep Motion: A Convolutional Neural Network for Frame Interpolation](https://github.com/neil454/deep-motion/raw/master/deep-motion_paper.pdf)
